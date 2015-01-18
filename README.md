@@ -1,0 +1,1 @@
+Accessing github api using angular and displaying user details
